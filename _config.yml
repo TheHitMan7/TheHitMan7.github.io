@@ -1,1 +1,8 @@
 title: TheHitMan7
+plugins:
+  - jekyll-seo-tag
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+theme: jekyll-theme-minimal
